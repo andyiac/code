@@ -1,0 +1,1 @@
+# Effective JavaScript read notes
