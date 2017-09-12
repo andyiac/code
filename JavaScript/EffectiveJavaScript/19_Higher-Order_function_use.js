@@ -17,7 +17,6 @@ for (var i = 0; i < 10; i++) {
 	digits +=i
 }
 
-
 console.log(digits)
 
 var random = ''
@@ -27,7 +26,6 @@ for (var i = 0; i < 8; i++) {
 }
 
 console.log(random);
-
 
 // user call back function
 
